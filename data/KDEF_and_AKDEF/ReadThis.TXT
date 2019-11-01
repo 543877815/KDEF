@@ -1,0 +1,29 @@
+What's inside the 4 folders in this library:
+
+Documentation about the KDEF and AKDEF material (KDEF.doc; AKDEF.doc).
+
+KDEF
+	Folder KDEF: The Karolinska Directed Emotional Faces; 4900 pictures on facial emotional expressions.
+	Folder KDEFmap: Image maps for the 70 different models used in KDEF.
+	Reference: Lundqvist, D., Flykt, A., & Öhman, A. (1998). The Karolinska Directed Emotional Faces - KDEF, CD ROM from Department of Clinical Neuroscience, Psychology section, Karolinska Institutet, ISBN 91-630-7164-9.
+
+AKDEF
+	Folder AKDEF: The Averaged Karolinska Directed Emotional Faces; 70 pictures on averaged facial emotional 
+expressions.
+	Folder AKDEFmap: Image maps for the averaged male and female in AKDEF.
+	Reference: Lundqvist, D., & Litton, J. E. (1998). The Averaged Karolinska Directed Emotional Faces - AKDEF, CD ROM from Department of Clinical Neuroscience, Psychology section, Karolinska Institutet, ISBN 91-630-7164-9.
+
+Correspondance is sent to:
+Daniel Lundqvist, Ph.D.
+Karolinska Institutet
+Department of Clinical Neuroscience
+Section of Psychology 
+Stockholm, Sweden
+Mail: daniel.lundqvist@ki.se
+
+
+
+
+
+
+
